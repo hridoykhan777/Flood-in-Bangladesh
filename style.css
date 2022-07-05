@@ -1,4 +1,8 @@
+body{
+    margin: 0;
+}
 .top-image {
+
     background-image: url(images/picture1.jpg);
     padding: 200px;
 
