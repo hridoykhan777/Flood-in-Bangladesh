@@ -1,0 +1,58 @@
+.top-image {
+    background-image: url(images/picture1.jpg);
+    padding: 200px;
+
+    background-repeat: no-repeat;
+}
+
+.top-headings {
+    text-align: center;
+}
+
+.top-headings h1 {
+    font-size: 150px;
+    text-align: center;
+    color: whitesmoke;
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.top-headings h2 {
+    font-size: 80px;
+    text-align: center;
+    color: whitesmoke;
+    margin: 0;
+}
+
+.top-headings h3 {
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    margin: 0 400px;
+    background-color: rgb(201, 201, 68);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.top-headings p {
+    color: whitesmoke;
+    font-size: 40px;
+    text-align: center;
+    margin: 0 200px 50px 200px;
+    padding: 100px;
+
+}
+
+.top-headings a {
+
+    background-color: rgb(202, 192, 47);
+    padding: 10px 30px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 40px;
+
+
+}
