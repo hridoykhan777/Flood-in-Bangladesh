@@ -56,3 +56,45 @@
 
 
 }
+.second-part{
+    color: gray;
+font-family: 'Poppins', sans-serif;
+margin: 30px 100px;
+text-align: center;
+}
+.second-part h2{
+font-size: 50px;
+}
+.amount{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h3{
+    font-weight: bold;
+    padding: 50px;
+    border: 2px solid rgb(242, 239, 239);
+    border-radius: 5px;
+    margin-right: 5%;
+    background-color: rgb(242, 239, 239);
+}
+#color{
+    border: 3px solid tomato;
+    background-color: rgb(249, 165, 155);
+}
+h4{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: grey;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid grey;
+}
+.btn-new{
+    background-image: linear-gradient(rgb(231, 124, 36), rgb(219, 102, 73));
+    padding: 10px 20px;
+    margin-left: 45%;
+    margin-right: 45%;
+}
