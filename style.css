@@ -74,7 +74,7 @@ font-size: 50px;
     margin-left: 15%;
     margin-right: 15%;
 }
-h3{
+.amount h3{
     font-weight: bold;
     padding: 50px;
     border: 2px solid rgb(242, 239, 239);
@@ -86,7 +86,7 @@ h3{
     border: 3px solid tomato;
     background-color: rgb(249, 165, 155);
 }
-h4{
+.other h4{
     text-align: center;
     margin-left: 30%;
     margin-right: 30%;
@@ -101,4 +101,55 @@ h4{
     padding: 10px 20px;
     margin-left: 45%;
     margin-right: 45%;
+}
+.third-section {
+    display: flex;
+    margin: 60px 90px 50px 90px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
+
+.family {
+
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(247, 207, 199);
+}
+
+
+
+.bg1{
+    background-color: rgb(227, 228, 165);
+}
+.bg2{
+    background-color: rgb(136, 197, 221);
+}
+.bg3{
+
+    background-color: rgb(199, 174, 177);
+}
+footer{
+    
+    
+
+    text-align: center;
+    
+    background-color: black ;
+    color: rgb(238, 234, 229);
+    margin-top: 20px;
+    padding: 10px 300px;
+    
+}
+#one{
+    font-size: 40px;
+    color: rgb(241, 59, 13);
+    font-family: 'Oswald', sans-serif;
+font-family: 'Ubuntu Condensed', sans-serif;
+}
+.update-part h2{
+text-align: center;
+    
+}
+.update-part{
+    text-align: center;
 }
