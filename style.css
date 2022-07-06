@@ -75,8 +75,9 @@ body {
 
 .amount {
     display: flex;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 20%;
+    margin-right:20%;
+    margin-bottom: 20px;
 }
 
 .amount h3 {
@@ -88,20 +89,23 @@ body {
     background-color: rgb(242, 239, 239);
 }
 
+
 #color {
     border: 3px solid tomato;
     background-color: rgb(249, 165, 155);
 }
 
-.other h4 {
+.other  {
     text-align: center;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 20px;
     color: grey;
     padding-left: 100px;
     padding-right: 100px;
-    padding-bottom: 2px;
+    border: none;
     border-bottom: 1px solid grey;
+    
 }
 
 .btn-new {
