@@ -97,10 +97,13 @@ font-size: 50px;
     border-bottom: 1px solid grey;
 }
 .btn-new{
-    background-image: linear-gradient(rgb(231, 124, 36), rgb(219, 102, 73));
+    background-image: linear-gradient(orange, tomato);
     padding: 10px 20px;
-    margin-left: 45%;
-    margin-right: 45%;
+    margin-left: 47%;
+    margin-right: 47%;
+    border-radius: 6px;
+    border: none;
+    
 }
 .third-section {
     display: flex;
@@ -148,8 +151,32 @@ font-family: 'Ubuntu Condensed', sans-serif;
 }
 .update-part h2{
 text-align: center;
-    
+font-weight: 800;
+    font-size: 40px;
+    color: black;
 }
 .update-part{
     text-align: center;
+    color: grey;
+}
+.email-section {
+    text-align: center;
+    background-color: #fff4d6;
+    margin: 50px 250px;
+    border-radius: 10px;
+    padding: 40px 250px;
+    margin-bottom: 100px;
+}
+
+.email {
+    padding: 10px 20px;
+    background-color: rgb(221, 217, 217);
+    border: none;
+}
+.submit-button {
+    padding: 10px 15px;
+    background-color: tomato;
+    border: none;
+    color: white;
+    
 }
