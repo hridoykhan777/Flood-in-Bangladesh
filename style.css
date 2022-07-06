@@ -128,6 +128,17 @@ body {
     background-color: rgb(247, 207, 199);
 }
 
+.middle h2 {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+
+}
+
+.middle p {
+    text-align: center;
+    color: grey;
+}
 
 
 .bg1 {
